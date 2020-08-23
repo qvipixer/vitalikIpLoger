@@ -1,0 +1,1 @@
+pyuic5.exe IpTracker.ui -o IpTracker.py
